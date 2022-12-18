@@ -9,7 +9,7 @@ nt to the grid layout of these segments so that the Potions segment has more spa
 This mod is made specifically for the Complete Edition/Next Gen Update and NOT for the Classic Edition/Old Gen
 
 ### Installation
-Download and place the main file in your mods folder
+Download the main file from "releases" and place it in your mods folder found in your game directory. If one does not exist, create it
 
 ### Uninstallation
 Take the main file out of your mods folder
