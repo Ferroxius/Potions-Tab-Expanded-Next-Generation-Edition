@@ -1,4 +1,4 @@
-# Potions-Tab-Expanded
+# Potions-Tab-Expanded - Next Generation Edition
 ### Introduction
 In the alchemical items tab of the inventory the Oils, Potions and Bombs are arranged in equal spaces. On paper this looks clean and works nicely, however scaled up to when you have multiple decoctions and potions the Potions segment starts to become a bit overloaded while the Oils and Bombs segments never suffer from this
 
