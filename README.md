@@ -17,5 +17,8 @@ Take the main file out of your mods folder
 ### Compatability
 This mod makes changes to panel_inventory.redswf and as such it is incompatible with any mod that also changes this file. If other mods need patches then I will make them eventually
 
+Currently the following mods are patched:
+- Sort Everything
+
 ### Credits
 MerseyRockoff for the mod concept and telling me where to edit the values in the gfx files
